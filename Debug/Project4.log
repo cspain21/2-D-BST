@@ -1,0 +1,32 @@
+﻿  project4.cpp
+C:\Users\conno\source\repos\Project4\Project4\BinarySearchTree.h(424,34): warning C4101: 'e': unreferenced local variable
+C:\Users\conno\source\repos\Project4\Project4\BinarySearchTree.h(403): message : while compiling class template member function 'void BinarySearchTree<int>::find(const DataType &,const DataType &)'
+          with
+          [
+              DataType=int
+          ]
+C:\Users\conno\source\repos\Project4\Project4\project4.cpp(106): message : see reference to function template instantiation 'void BinarySearchTree<int>::find(const DataType &,const DataType &)' being compiled
+          with
+          [
+              DataType=int
+          ]
+C:\Users\conno\source\repos\Project4\Project4\project4.cpp(11): message : see reference to class template instantiation 'BinarySearchTree<int>' being compiled
+C:\Users\conno\source\repos\Project4\Project4\BinarySearchTree.h(644,34): warning C4101: 'e': unreferenced local variable
+C:\Users\conno\source\repos\Project4\Project4\BinarySearchTree.h(639): message : while compiling class template member function 'int BinarySearchTree<int>::getInorderTraversal(BinarySearchTree<int> *,BinarySearchTree<int> **,int)'
+C:\Users\conno\source\repos\Project4\Project4\BinarySearchTree.h(290): message : see reference to function template instantiation 'int BinarySearchTree<int>::getInorderTraversal(BinarySearchTree<int> *,BinarySearchTree<int> **,int)' being compiled
+C:\Users\conno\source\repos\Project4\Project4\BinarySearchTree.h(677,34): warning C4101: 'e': unreferenced local variable
+C:\Users\conno\source\repos\Project4\Project4\BinarySearchTree.h(672): message : while compiling class template member function 'int BinarySearchTree<int>::getPreorderTraversal(BinarySearchTree<int> *,BinarySearchTree<int> **,int)'
+C:\Users\conno\source\repos\Project4\Project4\BinarySearchTree.h(332): message : see reference to function template instantiation 'int BinarySearchTree<int>::getPreorderTraversal(BinarySearchTree<int> *,BinarySearchTree<int> **,int)' being compiled
+C:\Users\conno\source\repos\Project4\Project4\BinarySearchTree.h(737,34): warning C4101: 'e': unreferenced local variable
+C:\Users\conno\source\repos\Project4\Project4\BinarySearchTree.h(728): message : while compiling class template member function 'void BinarySearchTree<int>::yBalance(const DataType &)'
+          with
+          [
+              DataType=int
+          ]
+C:\Users\conno\source\repos\Project4\Project4\project4.cpp(90): message : see reference to function template instantiation 'void BinarySearchTree<int>::yBalance(const DataType &)' being compiled
+          with
+          [
+              DataType=int
+          ]
+C:\Users\conno\source\repos\Project4\Project4\BinarySearchTree.h(210): warning C4715: 'BinarySearchTree<int>::id': not all control paths return a value
+  Project4.vcxproj -> C:\Users\conno\source\repos\Project4\Debug\Project4.exe
